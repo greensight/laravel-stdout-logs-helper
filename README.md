@@ -1,5 +1,7 @@
 # Laravel stdout logs helper
 
+`Deprecated, use https://github.com/ensi-platform/laravel-telemetry instead`
+
 Пакет для дублирования логов в stdout.
 
 ## Установка
